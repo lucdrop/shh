@@ -1,0 +1,20 @@
+.facereviews{display:none}
+.cbi{clear:both!important}
+.cajarese,.cajarese *{box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box}
+.cajarese{background:#f6f7f9;border:solid 1px #e9ebee;border-top:0;max-width:500px;max-height:370px;margin-top:-1px;padding:8px;display:block;overflow:auto;z-index:9999;position:relative}
+.cajarese a{text-decoration:none;color:inherit}
+.cajarese .rese,.cajarese .rese h4{font-family:'Helvetica',Arial,sans-serif!important;color:#1d2129;text-align:left}
+.cajarese .rese{background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.12);border-radius:2px;margin-bottom:10px;padding:12px 12px 0}
+.cajarese .rese:first-child{margin-top:-5px}
+.cajarese .rese:last-child{margin-bottom:5px}
+.cajarese .rese img{border-radius:100%;width:40px;height:40px;object-fit:cover;float:left}
+.cajarese .rese .infotit{margin:13px 0 0 8px;float:left}
+.cajarese .rese .infotit h4{font-size:14px;font-weight:bold;line-height:2px;margin:0}
+.cajarese .rese .infotit a{margin-top:7px;display:inline-block}
+.cajarese .rese a:not(.imgper){font-size:11px;color:#90949c}
+.cajarese .rese a.btnface{font-size:20px;color:#4266b2;float:right}
+.cajarese .rese a:not(.btnface):not(.imgper):hover{text-decoration:underline}
+.cajarese .rese .texto{font-size:14px;font-weight:normal;line-height:1.38;width:100%;margin:10px 0;float:left}
+.cajarese .rese .texto a{font-size:inherit;color:inherit;text-decoration:underline}
+.cajarese .rese.resebusca{font-size:12px;font-weight:bold;text-align:center;line-height:16px;width:100%;padding:10px;display:block;position:relative}
+.cajarese .rese.resebusca:before{font-family:'FontAwesome';font-size:20px;color:#757b88;position:absolute;right:10px;content:'\f105'}
